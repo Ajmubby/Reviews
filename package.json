@@ -1,0 +1,21 @@
+{
+  "name": "layout-asst",
+  "version": "1.0.0",
+  "description": "\"Rating\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./layout.css -o ./rating/rating.css --watch"
+  },
+  "keywords": [
+    "Kindly",
+    "rate",
+    "our",
+    "services"
+  ],
+  "author": "Mubarak",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
