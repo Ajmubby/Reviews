@@ -1864,6 +1864,16 @@ video {
   background-color: rgb(148 163 184 / var(--tw-bg-opacity));
 }
 
+.bg-\[\#262f38\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(38 47 56 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#11161E\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(17 22 30 / var(--tw-bg-opacity));
+}
+
 .decoration-slice {
   -webkit-box-decoration-break: slice;
           box-decoration-break: slice;
